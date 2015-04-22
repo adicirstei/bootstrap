@@ -12,4 +12,4 @@ Will install
 - sails
 - grunt-cli
 - atom
-  - atom theme
+- atom theme
