@@ -1,6 +1,6 @@
 Import-Module PsGet
 Import-Module D:\soft\PSModules\nvm
-Import-Module D:\soft\PSModules\posh-npm
+
 # Load posh-git example profile
 . 'D:\soft\PSModules\posh-git\profile.example.ps1'
 
