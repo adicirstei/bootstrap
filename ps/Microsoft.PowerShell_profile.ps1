@@ -16,5 +16,5 @@ function lastio {
     set-iojsversion $(@(get-iojsversions) | Sort-object | select-object -last 1)
     "Node version $(node -v)"
 }
-
+lastnode
 lastio
